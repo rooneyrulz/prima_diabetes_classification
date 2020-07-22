@@ -1,6 +1,6 @@
 1. Number of times pregnant.
 
-2. Plasma glucose concentration a 2 hours in an oral glucose     tolerance test.
+2. Plasma glucose concentration a 2 hours in an oral glucose tolerance test.
 
 3. Diastolic blood pressure (mm Hg).
 
